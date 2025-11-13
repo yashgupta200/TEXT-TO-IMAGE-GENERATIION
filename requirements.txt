@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+tqdm
+pandas
+numpy
+matplotlib
+opencv-python
+scipy
+Pillow
+accelerate
+safetensors
