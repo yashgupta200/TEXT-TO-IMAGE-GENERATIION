@@ -1,9 +1,0 @@
-gradio==3.43.0
-torch
-diffusers
-transformers
-accelerate
-safetensors
-ftfy
-xformers
-pillow
